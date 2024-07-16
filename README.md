@@ -27,10 +27,6 @@ Bolt 700
 
 /*===========================================================*/
 
-1 Rem equivale a 16px; muy usada ya que se adapta al tipo de pantalla
-
-/*===========================================================*/
-
 https://swiperjs.com/get-started
 https://www.jsdelivr.com/package/npm/swiper?tab=files&version=11.1.1
 swiper-bundle.min.js y swiper-bundle.min.css
